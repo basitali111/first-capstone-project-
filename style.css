@@ -917,6 +917,9 @@ body {
 }
 
 @media screen and (min-width: 768px) {
+  #close-icon{
+    display: none;
+  }
   .speaker-cont2 {
     display: block;
   }
