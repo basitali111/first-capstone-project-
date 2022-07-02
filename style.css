@@ -247,13 +247,14 @@ body {
 }
 
 .morebtn {
-  padding: 15px 160px;
+  padding: 15px 42%;
   border: 1px solid #c6c6c6;
   text-decoration: none;
   color: #272a31;
   font-family: 'Lato', sans-serif;
   gap: 8px;
   cursor: pointer;
+  width: 100%;
 }
 
 .morebtn:hover {
@@ -730,7 +731,7 @@ body {
     background-image: url(capstone/Background/desktop\ about\ back.png);
     background-size: contain;
     background-position: center;
-    background-color: #d3d3d3;
+    background-color: hsl(0deg 0% 0% / 5%);
   }
 
   #about-para {
