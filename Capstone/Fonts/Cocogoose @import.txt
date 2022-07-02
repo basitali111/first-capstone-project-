@@ -1,0 +1,4 @@
+@import url('http://fonts.cdnfonts.com/css/cocogoose');
+
+<link href="http://fonts.cdnfonts.com/css/cocogoose" rel="stylesheet">
+                
