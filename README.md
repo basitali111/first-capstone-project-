@@ -43,9 +43,10 @@ The requirements for this projects were:
 ​
 ## Live Demo
 ​
-[Live Demo Link](https://basitali111.github.io/first-capstone-project-/)
+  [Live Demo Link](https://basitali111.github.io/first-capstone-project-/)
 ​
-​[Loom video Demo](https://www.loom.com/share/344c92085a654c7fb77bc3d9901e0e6f)
+​ 
+[Loom video Demo](https://www.loom.com/share/344c92085a654c7fb77bc3d9901e0e6f)
 ## Getting Started
 ​
 To get a local copy up and running follow these simple example steps:
