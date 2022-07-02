@@ -73,3 +73,15 @@ popuparray.forEach((element, i) => {
   card.innerHTML += popupcard;
   popup.appendChild(card);
 });
+const loadMoreBtn = document.querySelector('.morebtn');
+let currentItem = 2;
+loadMoreBtn.onclick = () => {
+  const boxes = [...document.querySelectorAll('.speaker-close')];
+  for (let i = currentItem; i < currentItem + 2; i += 1) {
+    boxes[i].style.display = 'flex';
+  }
+  currentItem += 2;
+  if (currentItem >= boxes.length) {
+    loadMoreBtn.style.display = 'none';
+  }
+};
