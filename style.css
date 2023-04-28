@@ -127,12 +127,15 @@ body {
   flex: 2.8;
   color: #ec5242;
   font-size: 20px;
-  margin-top: 44px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-align: center;
+  font-size: large;
+  gap: 30px;
 }
 
 .box-para {
-  border: 1px solid red;
   color: white;
   display: flex; 
   align-items: center; 
@@ -637,6 +640,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: unset;
+    gap:1.4375rem;
   }
 
   .grid-box:hover {
