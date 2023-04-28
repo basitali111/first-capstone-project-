@@ -132,10 +132,12 @@ body {
 }
 
 .box-para {
-  padding: 9px;
-  flex: 4;
-  color: #fff;
-  margin-top: 34px;
+  border: 1px solid red;
+  color: white;
+  display: flex; 
+  align-items: center; 
+  justify-content: center;
+  text-align: center;
 }
 
 #join-btn {
@@ -948,3 +950,6 @@ body {
     top: 4rem;
   }
 }
+
+@media screen and  (max-width: 600px) 
+{ .box-para { font-size: 14px; } }
