@@ -120,7 +120,7 @@ body {
 }
 
 .image-box {
-  padding: 2% 12px;
+  padding: 6% 12px;
 }
 
 .heading-box {
@@ -141,6 +141,7 @@ body {
   align-items: center; 
   justify-content: center;
   text-align: center;
+ width: 41%;
 }
 
 #join-btn {
@@ -663,6 +664,7 @@ body {
   .box-para {
     margin: 0;
     text-align: center;
+    width: 100%;
   }
 
   #see-program {
@@ -955,5 +957,13 @@ body {
   }
 }
 
+@media screen and (min-width: 759px){
+  .image-box{
+    padding: 5% 12px;
+}
+}
+
+
 @media screen and  (max-width: 600px) 
 { .box-para { font-size: 14px; } }
+
