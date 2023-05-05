@@ -170,7 +170,7 @@ body {
   grid-template-rows: auto;
   grid-row-gap: 20px;
   grid-row-gap: 49px;
-  width: 92%;
+  width: 96%;
   margin: 0 auto;
   padding-top: 8%;
 }
@@ -342,7 +342,7 @@ body {
   left: 0;
   right: 0;
   margin: auto;
-  top: 5rem;
+  top: 3.7rem;
 }
 
 #logo-para {
@@ -458,6 +458,7 @@ body {
   font-family: 'Lato', sans-serif;
   letter-spacing: 2px;
   padding-bottom: 23px;
+  margin-top: 20px;
 }
 
 .partner-heading::after {
@@ -967,3 +968,39 @@ body {
 @media screen and  (max-width: 600px) 
 { .box-para { font-size: 14px; } }
 
+@media screen and (max-width: 442px)
+{
+  .logo-name::after{
+    top: 7rem;
+  }
+}
+
+@media screen and (max-width: 319px)
+{
+  .logo-name::after{
+    top: 8rem;
+  }
+}
+@media screen and (max-width: 268px)
+{
+  .logo-name::after{
+    top: 10rem;
+  }
+}
+@media screen and (max-width: 197px)
+{
+  .logo-name::after{
+    top: 11rem;
+  }
+}
+
+.past-image{
+  display: flex;
+
+}
+
+.image-record{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
