@@ -22,18 +22,14 @@
   - You should use a JavaScript variable with the data about the speakers and use it when the page loads to create the HTML for this section dynamically.
 ​
 ## Built With
-​
 - HTML
 - CSS
 - JavaScript
 ​
-​
 ## Live Demo
+- [Live Demo Link](https://basitali111.github.io/first-capstone-project-/)
 ​
-### [Live Demo Link](https://basitali111.github.io/first-capstone-project-/)
-​
-​ 
-### [Loom Demo](https://www.loom.com/share/344c92085a654c7fb77bc3d9901e0e6f)
+- [Loom Demo](https://www.loom.com/share/344c92085a654c7fb77bc3d9901e0e6f)
 ## Getting Started
 ​
 To get a local copy up and running follow these simple example steps:
