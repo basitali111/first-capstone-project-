@@ -30,10 +30,10 @@
 ​
 ## Live Demo
 ​
-  [Live Demo Link](https://basitali111.github.io/first-capstone-project-/)
+### [Live Demo Link](https://basitali111.github.io/first-capstone-project-/)
 ​
 ​ 
-[Loom Demo](https://www.loom.com/share/344c92085a654c7fb77bc3d9901e0e6f)
+### [Loom Demo](https://www.loom.com/share/344c92085a654c7fb77bc3d9901e0e6f)
 ## Getting Started
 ​
 To get a local copy up and running follow these simple example steps:
@@ -61,6 +61,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 Original design is from [Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015).
-## �� License
+##  License
 ​
 This project is [MIT](./MIT.md) licensed.
