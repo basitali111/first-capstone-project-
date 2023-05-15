@@ -3,19 +3,6 @@
 # Capstone Project 1
 ​
 > This project was designed to test some of the abilities I learned in the first module of the Microverse program. I had to create a website from scratch following basic [design guidelines](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015). The abilities to be tested are: Use semantic HTML tags.
-- Apply best practices in HTML code.
-- Use CSS selectors correctly.
-- Use CSS box model.
-- Use Flexbox to place elements in the page.
-- Demonstrate ability to create UIs adaptable to different screen sizes using media queries.
-- Use GitHub Pages to deploy web pages.
-- Apply JavaScript best practices and language style guides in code.
-- Use JavaScript to manipulate DOM elements.
-- Use JavaScript events.
-- Use objects to store and access data.
-- Communicate technical concepts to other technical people.
-​
-The requirements for this projects were:
 * Build only these 2 pages: The "home" page and the "about" page.
 ​
 * Each of these pages should have versions for 2 different screen sizes: mobile: up to 768px wide and desktop: 768px or wider.
@@ -65,21 +52,15 @@ To get a local copy up and running follow these simple example steps:
 - LinkedIn: [LinkedIn]( basit-ali-3961141b3)
 ​
 
-## �� Contributing
-​
+## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
-​
+Feel free to check the [issues page](../../issues/).
 
-​
 ## Show your support
-​
 Give a ⭐️ if you like this project!
-​
+
 ## Acknowledgments
-​
-- Hat tip to anyone whose code was used
-- Special thanks to [Cindy Shin](https://www.behance.net/adagio07) the author of the original design,
-​
+Original design is from [Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015).
 ## �� License
 ​
 This project is [MIT](./MIT.md) licensed.
