@@ -1004,3 +1004,10 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
+@media screen and (max-width: 370px)
+{.morebtn{
+  padding: 15px 39%;
+}
+  
+}

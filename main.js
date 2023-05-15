@@ -75,7 +75,8 @@ popuparray.forEach((element, i) => {
 });
 const loadMoreBtn = document.querySelector('.morebtn');
 let currentItem = 2;
-loadMoreBtn.onclick = () => {
+loadMoreBtn.onclick = (event) => {
+  event.preventDefault();
   const boxes = [...document.querySelectorAll('.speaker-close')];
   for (let i = currentItem; i < currentItem + 2; i += 1) {
     boxes[i].style.display = 'flex';
