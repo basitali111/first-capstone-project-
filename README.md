@@ -27,7 +27,7 @@ The main features of this project are:
 
 ## Live Demo
 
-You can view the live version of this project here: [Live Demo Link](https://basitali111.github.io/first-capstone-project-/)
+You can view the live version of this project here: [Live Demo](https://basitali111.github.io/first-capstone-project-/)
 
 You can also watch a video presentation of this project here: [Loom Demo](https://www.loom.com/share/344c92085a654c7fb77bc3d9901e0e6f)
 
