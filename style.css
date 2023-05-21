@@ -126,7 +126,6 @@ body {
 .heading-box {
   flex: 2.8;
   color: #ec5242;
-  font-size: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -137,11 +136,11 @@ body {
 
 .box-para {
   color: white;
-  display: flex; 
-  align-items: center; 
+  display: flex;
+  align-items: center;
   justify-content: center;
   text-align: center;
- width: 41%;
+  width: 41%;
 }
 
 #join-btn {
@@ -642,7 +641,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: unset;
-    gap:1.4375rem;
+    gap: 1.4375rem;
   }
 
   .grid-box:hover {
@@ -958,56 +957,56 @@ body {
   }
 }
 
-@media screen and (min-width: 759px){
-  .image-box{
+@media screen and (min-width: 759px) {
+  .image-box {
     padding: 5% 12px;
+  }
 }
-}
 
+@media screen and  (max-width: 600px) { .box-para { font-size: 14px; } }
 
-@media screen and  (max-width: 600px) 
-{ .box-para { font-size: 14px; } }
-
-@media screen and (max-width: 442px)
-{
-  .logo-name::after{
+@media screen and (max-width: 442px) {
+  .logo-name::after {
     top: 7rem;
   }
 }
 
-@media screen and (max-width: 319px)
-{
-  .logo-name::after{
+@media screen and (max-width: 319px) {
+  .logo-name::after {
     top: 8rem;
   }
 }
-@media screen and (max-width: 268px)
-{
-  .logo-name::after{
+
+@media screen and (max-width: 268px) {
+  .logo-name::after {
     top: 10rem;
   }
 }
-@media screen and (max-width: 197px)
-{
-  .logo-name::after{
+
+@media screen and (max-width: 197px) {
+  .logo-name::after {
     top: 11rem;
   }
 }
 
-.past-image{
+.past-image {
   display: flex;
-
 }
 
-.image-record{
+.image-record {
   width: 90%;
   margin-left: auto;
   margin-right: auto;
 }
 
-@media screen and (max-width: 370px)
-{.morebtn{
-  padding: 15px 39%;
+@media screen and (max-width: 380px) {
+  .morebtn {
+    padding: 15px 39%;
+  }
 }
-  
+
+@media screen and (max-width: 280px) {
+  .morebtn {
+    padding: 15px 33%;
+  }
 }

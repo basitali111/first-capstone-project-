@@ -1,85 +1,74 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 ​
 # Capstone Project 1
-​
-> This project was designed to test some of the abilities I learned in the first module of the Microverse program. I had to create a website from scratch following basic [design guidelines](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015). The abilities to be tested are: Use semantic HTML tags.
-- Apply best practices in HTML code.
-- Use CSS selectors correctly.
-- Use CSS box model.
-- Use Flexbox to place elements in the page.
-- Demonstrate ability to create UIs adaptable to different screen sizes using media queries.
-- Use GitHub Pages to deploy web pages.
-- Apply JavaScript best practices and language style guides in code.
-- Use JavaScript to manipulate DOM elements.
-- Use JavaScript events.
-- Use objects to store and access data.
-- Communicate technical concepts to other technical people.
-​
-The requirements for this projects were:
-* Build only these 2 pages: The "home" page and the "about" page.
-​
-* Each of these pages should have versions for 2 different screen sizes: mobile: up to 768px wide and desktop: 768px or wider.
-​
-* Interactions
-    - Links:
-      - The home page should have a link in the menu to the about page.
-      - The logo in the header links to the home page.
-      
-    - Mobile menu
-      - When the user clicks (or taps) the hamburger button on the header, the mobile menu appears over the page.
-      - There are no guidelines for the mobile menu in the docs, but you should implement it so it is consistent with the design (colors, typography, spacings, etc.).
-      - The mobile menu should have a close (X) button that closes the menu.
-​
-*Dynamic page
-  - The section "Featured speakers" should be created dynamically in JavaScript.
-  - You should use a JavaScript variable with the data about the speakers and use it when the page loads to create the HTML for this section dynamically.
-​
-## Built With
-​
-- HTML
-- CSS
-- JavaScript
-​
-​
+
+## Description
+
+This project is a website for the CC Global Summit 2015, an event that brings together creative minds from different fields to share their ideas and insights on various topics. The website consists of two pages: the home page and the about page.
+
+I built this project as part of the Microverse program to showcase my skills in HTML, CSS, and JavaScript. The project also follows basic [design guidelines](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) provided by [Cindy Shin](https://www.behance.net/adagio07), the original designer.
+
+The main features of this project are:
+
+- Responsive design for mobile and desktop screens
+- Dynamic creation of the featured speakers section using JavaScript
+- Interactive menu for mobile devices
+- Smooth scrolling and navigation
+
+## Table of Contents
+
+- [Live Demo](#live-demo)
+- [Getting Started](#getting-started)
+- [Authors](#authors)
+- [Contributing](#contributing)
+- [Show Your Support](#show-your-support)
+- [Acknowledgments](#acknowledgments)
+- [License](#license)
+
 ## Live Demo
-​
-  [Live Demo Link](https://basitali111.github.io/first-capstone-project-/)
-​
-​ 
-[Loom Demo](https://www.loom.com/share/344c92085a654c7fb77bc3d9901e0e6f)
+
+You can view the live version of this project here: [Live Demo Link](https://basitali111.github.io/first-capstone-project-/)
+
+You can also watch a video presentation of this project here: [Loom Demo](https://www.loom.com/share/344c92085a654c7fb77bc3d9901e0e6f)
+
 ## Getting Started
-​
-To get a local copy up and running follow these simple example steps:
-​
-- Clone this repo to your computer using git.
 
-​
-​
-​
+To get a local copy of this project, follow these steps:
+
+- Clone this repository to your computer using `git clone https://github.com/BasitAli111/first-capstone-project-.git`
+- Open the `index.html` file in your browser
+- Enjoy!
+
 ## Authors
-​
-👤 **Author1**
-​
-- GitHub: [@githubhandle](@BasitAl35031734)
-- Twitter: [@twitterhandle](@BasitAl35031734)
-- LinkedIn: [LinkedIn]( basit-ali-3961141b3)
-​
 
-## �� Contributing
-​
+👤 **Basit Ali**
+
+- GitHub: [@BasitAli111](https://github.com/BasitAli111)
+- Twitter: [@BasitAl35031734](https://twitter.com/BasitAl35031734)
+- LinkedIn: [Basit Ali](https://www.linkedin.com/in/basit-ali-3961141b3/)
+
+## Contributing
+
 Contributions, issues, and feature requests are welcome!
-​
 
-​
-## Show your support
-​
+Feel free to check the [issues page](https://github.com/BasitAli111/first-capstone-project-/issues) for open issues.
+
+To contribute to this project, follow these steps:
+
+- Fork this repository
+- Create a new branch with your feature name
+- Make your changes and commit them
+- Push your branch and open a pull request
+
+## Show Your Support
+
 Give a ⭐️ if you like this project!
-​
+
 ## Acknowledgments
-​
-- Hat tip to anyone whose code was used
-- Special thanks to [Cindy Shin](https://www.behance.net/adagio07) the author of the original design,
-​
-## �� License
-​
+
+Original design by [Cindy Shin](https://www.behance.net/adagio07).
+
+## License
+
 This project is [MIT](./MIT.md) licensed.
+
